@@ -1,5 +1,4 @@
 # Cloud-based Search Engine
-### Kevin Zhang, Spencer Mateega, Manvi Kaul, and Mahika Vajpeyi
  
 ## Run Instructions
  
